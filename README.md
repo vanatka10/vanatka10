@@ -10,4 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,express,html,css,js,flask,pytorch)](https://skillicons.dev)
+
 ![Metrics](./m7.png)
