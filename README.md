@@ -4,4 +4,4 @@
 
 [![Skills](https://skillicons.dev/icons?i=python,nodejs,express,html,css,js,flask)](https://skillicons.dev)
 
-![Metrics](./m7.png)
+<!--- ![Metrics](./m7.png)--->
